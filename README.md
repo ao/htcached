@@ -10,7 +10,7 @@ syntax:
 
 example:
 
-`go run . 80 https://ao.gl`
+`go run . 80 https://ataiva.com`
 
 
-This will run the server locally on port 80 and will pipe resources from end resource of https://ao.gl
+This will run the server locally on port 80 and will pipe resources from end resource of https://ataiva.com
